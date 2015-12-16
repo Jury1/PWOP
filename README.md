@@ -15,8 +15,22 @@ If you decided to join us, but you don't know how to start, please see <a href="
 
 <h1>DiatomEnterprises</h1>
 
- 
+We are a Latvia based custom outsource software development company producing software for a wide variety of industries. Our customers around the globe find our software development services to be of outstanding quality at an affordable price.
 
+Diatom Enterprises was founded by software developers that have been involved in the development of software solutions practically since high school.
+
+Currently our main line of business is outsourcing software development. We started in 2004 as a small group of consultants and over the years have grown to 70. The majority of our staff members have North American work experience, speak fluent English and hold University degrees in Computer Science.
+
+Our team possesses vast and deep expertise in rapid offshore outsource software development of web-based, distributed and standalone applications designed to meet your organization's specific requirements and business needs. Offshore facilities of our software developer base enable us to provide 24 hour outsource production and support, as well as competitive pricing.
+
+We learned that success comes to those who do what they do with genuine interest and devotion. We have been able to assemble a team of very special talented people who can cut technological corners with their ingenuity, who pay extreme attention to detail and who take utmost pride in being able to call themselves "True Professionals" in the field of software development.
+
+When we are asked what makes our outsourcing company different from others we think that just like human beings - companies have individualities. Each software development company excels in one area and struggles in another. Successful business relationships especially in services which are related to production of intellectual property are often a matter of compatibility between the companies. Some relationships work, some do not. This is true if the offshore company can offer professionalism, competence and above all integrity.
+
+Once again, we welcome you to our web site. Please browse our materials and do not hesitate to get in touch with us should you require more information.
+ 
+<div><a href="https://www.diatomenterprises.com">Home page.</a></div>
+<div><a href="https://www.diatommobile.com">Mobile department page.</a></div>
 
 
 
