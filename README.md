@@ -27,9 +27,7 @@ We learned that success comes to those who do what they do with genuine interest
 
 When we are asked what makes our outsourcing company different from others we think that just like human beings - companies have individualities. Each software development company excels in one area and struggles in another. Successful business relationships especially in services which are related to production of intellectual property are often a matter of compatibility between the companies. Some relationships work, some do not. This is true if the offshore company can offer professionalism, competence and above all integrity.
 
-Once again, we welcome you to our web site. Please browse our materials and do not hesitate to get in touch with us should you require more information.
- 
-For detailed infromation please visit our <a href="https://www.diatomenterprises.com">home page</a> or <a href="https://www.diatommobile.com">Mobile department page.</a>
+For detailed infromation please visit our <a href="https://www.diatomenterprises.com">home page</a> or <a href="https://www.diatommobile.com">mobile department page.</a>
 
 
 
