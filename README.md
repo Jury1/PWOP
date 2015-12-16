@@ -29,8 +29,7 @@ When we are asked what makes our outsourcing company different from others we th
 
 Once again, we welcome you to our web site. Please browse our materials and do not hesitate to get in touch with us should you require more information.
  
-<div><a href="https://www.diatomenterprises.com">Home page.</a></div>
-<div><a href="https://www.diatommobile.com">Mobile department page.</a></div>
+For detailed infromation please visit our <a href="https://www.diatomenterprises.com">home page</a> or <a href="https://www.diatommobile.com">Mobile department page.</a>
 
 
 
