@@ -13,6 +13,8 @@ If you decided to join us, but you don't know how to start, please see <a href="
 <div><a href="https://plus.google.com/u/3/109933616734471768322/posts">Google+</a></div>
 <div><a href="https://pwop.slack.com">Slack</a></div>
 
+<img src="http://www.idfromdc.com/wp-content/uploads/2013/03/At-the-Office-Mac-Apple-Wallpapers-Creative-Planning-298219.jpg" alt="Smiley face" height="42" width="42" />
+
 <h1>DiatomEnterprises</h1>
 
 We are a Latvia based custom outsource software development company producing software for a wide variety of industries. Our customers around the globe find our software development services to be of outstanding quality at an affordable price.
